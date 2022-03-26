@@ -1,0 +1,11 @@
+Git init - Iniciar um repositório vazio no git
+
+Git add - manda os arquivos para a area de stand (estado incial do projeto para commitar o arquivo).
+
+Git status - verifica o status do arquivo.
+
+git commit -m "n" - ele vai comitar (enviar) o arquivo para o Git (n = titulo do commit).
+
+git branch -M "n" - muda o nome de master para main. (cod novo para o git).
+
+git remote add origin "nome do repositório" - mostra o caminho do repositório para o pc.
